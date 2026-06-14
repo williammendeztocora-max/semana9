@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas comunitarias funcionen de manera
+estable y segura porque muchas personas dependen de ellas para informarse,
+participar y organizarse. Un servidor inestable puede generar desconfianza y
+afectar la participación de la comunidad. La seguridad operativa ayuda a
+proteger la información y evita accesos no autorizados. Además, una plataforma
+estable permite la continuidad de los procesos colectivos. El buen manejo de
+permisos y configuraciones reduce riesgos técnicos. La estabilidad también
+demuestra responsabilidad con los usuarios. Cuando una comunidad confía en la
+plataforma, la participación aumenta. Por eso, el cuidado del servidor es
+fundamental para fortalecer los procesos comunitarios.
